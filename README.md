@@ -2,6 +2,7 @@
   <h1> Django CRUD </h1>
   Built with ❤️
 </div>
+
 ## 🛠️ Installation
 
 1. Clone Django CRUD
